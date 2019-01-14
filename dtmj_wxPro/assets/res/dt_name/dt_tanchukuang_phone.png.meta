@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "81f286b1-6c2c-4bca-b28a-de8a8a62130e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_tanchukuang_phone": {
+      "ver": "1.0.3",
+      "uuid": "2ad67531-23b3-4638-8827-c5ad83616f09",
+      "rawTextureUuid": "81f286b1-6c2c-4bca-b28a-de8a8a62130e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 548,
+      "height": 61,
+      "rawWidth": 550,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

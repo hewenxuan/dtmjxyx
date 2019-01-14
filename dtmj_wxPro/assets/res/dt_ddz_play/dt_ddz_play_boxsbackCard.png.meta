@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "876213e7-819e-4b45-8ace-a6407c3ad04f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_ddz_play_boxsbackCard": {
+      "ver": "1.0.3",
+      "uuid": "a8e85e85-ab2e-435d-adb6-5deef4858006",
+      "rawTextureUuid": "876213e7-819e-4b45-8ace-a6407c3ad04f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 42,
+      "height": 57,
+      "rawWidth": 42,
+      "rawHeight": 57,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

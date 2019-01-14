@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "51e5c047-7e9b-40a6-90e5-bbce1410f99c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_play_jiesan_btn_0": {
+      "ver": "1.0.3",
+      "uuid": "e51010f7-8416-4137-90d9-585cd977e527",
+      "rawTextureUuid": "51e5c047-7e9b-40a6-90e5-bbce1410f99c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 274,
+      "height": 82,
+      "rawWidth": 278,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

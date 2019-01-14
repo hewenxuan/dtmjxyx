@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "79d2384f-0f99-4fdf-ba4a-d2caa1f1a50c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dy_play_nokou_btn": {
+      "ver": "1.0.3",
+      "uuid": "dd2d03c4-e13b-4676-a46e-65eb65923ca8",
+      "rawTextureUuid": "79d2384f-0f99-4fdf-ba4a-d2caa1f1a50c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 154,
+      "height": 124,
+      "rawWidth": 154,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "28b61f94-08b7-42b6-95d1-2533391e110a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_ddz_play_roomInfoBg": {
+      "ver": "1.0.3",
+      "uuid": "a15db101-04ec-4c8f-9844-fbd66534efc1",
+      "rawTextureUuid": "28b61f94-08b7-42b6-95d1-2533391e110a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 373,
+      "height": 72,
+      "rawWidth": 373,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

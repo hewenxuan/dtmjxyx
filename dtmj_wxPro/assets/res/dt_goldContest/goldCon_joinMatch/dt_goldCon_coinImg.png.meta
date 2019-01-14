@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "e7d10274-cca2-4cee-bc95-1262f49e3561",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_goldCon_coinImg": {
+      "ver": "1.0.3",
+      "uuid": "d3cfe460-f1a5-4e58-8ea7-7ca2adaf4f8d",
+      "rawTextureUuid": "e7d10274-cca2-4cee-bc95-1262f49e3561",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 30,
+      "height": 30,
+      "rawWidth": 30,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

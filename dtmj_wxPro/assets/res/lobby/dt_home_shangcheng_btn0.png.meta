@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "52932c8a-8a73-4ff6-b5d9-19758bedf6da",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_home_shangcheng_btn0": {
+      "ver": "1.0.3",
+      "uuid": "9744a977-a9b9-4a19-8fcf-4a6f596ff292",
+      "rawTextureUuid": "52932c8a-8a73-4ff6-b5d9-19758bedf6da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 8,
+      "trimY": 1,
+      "width": 65,
+      "height": 83,
+      "rawWidth": 80,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

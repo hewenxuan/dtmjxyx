@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c9f02fda-85f3-4892-be8d-f52852514947",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_goldCon_itemImg_18": {
+      "ver": "1.0.3",
+      "uuid": "1b12b226-8f35-4d3e-9b13-77d715cb9447",
+      "rawTextureUuid": "c9f02fda-85f3-4892-be8d-f52852514947",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -4,
+      "trimX": 0,
+      "trimY": 8,
+      "width": 184,
+      "height": 142,
+      "rawWidth": 190,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+	"description": "项目配置文件。",
+	"miniprogramRoot": "./",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": false
+	},
+	"compileType": "game",
+	"libVersion": "game",
+	"appid": "wx59bbab93c690e522",
+	"projectname": "%E5%A4%A7%E5%94%90%E9%BA%BB%E5%B0%86_v14",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": [],
+			"current": -1
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}

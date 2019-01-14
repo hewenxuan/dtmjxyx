@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "36f1cd4d-c766-4ce4-b7c3-43fa6585b4bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_play_dengdai": {
+      "ver": "1.0.3",
+      "uuid": "f2242a59-6d29-4e97-8c08-d87edd2660fb",
+      "rawTextureUuid": "36f1cd4d-c766-4ce4-b7c3-43fa6585b4bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 468,
+      "height": 56,
+      "rawWidth": 470,
+      "rawHeight": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

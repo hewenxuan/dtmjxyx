@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "09e62b1d-87de-41ed-9549-87734281c841",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "desk_ditan": {
+      "ver": "1.0.3",
+      "uuid": "d5552431-7bab-4270-972e-84ef9216be18",
+      "rawTextureUuid": "09e62b1d-87de-41ed-9549-87734281c841",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 6,
+      "trimY": 4,
+      "width": 258,
+      "height": 203,
+      "rawWidth": 270,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

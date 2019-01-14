@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "4031b6d8-5abf-40dd-bf41-01d0add3ebf4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "heitao_small": {
+      "ver": "1.0.3",
+      "uuid": "13917705-00a6-4a62-8920-2db5c5c07666",
+      "rawTextureUuid": "4031b6d8-5abf-40dd-bf41-01d0add3ebf4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 622,
+      "height": 60,
+      "rawWidth": 624,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

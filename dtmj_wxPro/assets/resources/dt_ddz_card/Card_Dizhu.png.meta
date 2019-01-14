@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "a438af62-438e-44ec-bdaf-62a895b3330b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Card_Dizhu": {
+      "ver": "1.0.3",
+      "uuid": "365567bd-a50d-4602-9487-a26f7c1859eb",
+      "rawTextureUuid": "a438af62-438e-44ec-bdaf-62a895b3330b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 86,
+      "height": 87,
+      "rawWidth": 87,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

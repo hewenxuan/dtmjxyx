@@ -1,0 +1,153 @@
+
+liandui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liandui
+  rotate: false
+  xy: 2, 190
+  size: 220, 116
+  orig: 220, 116
+  offset: 0, 0
+  index: -1
+liandui_xu
+  rotate: false
+  xy: 2, 308
+  size: 250, 115
+  orig: 250, 115
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_00
+  rotate: false
+  xy: 254, 331
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_01
+  rotate: false
+  xy: 2, 96
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_02
+  rotate: false
+  xy: 416, 331
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_03
+  rotate: false
+  xy: 2, 2
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_04
+  rotate: false
+  xy: 578, 331
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_05
+  rotate: false
+  xy: 740, 331
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_06
+  rotate: true
+  xy: 164, 28
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_07
+  rotate: true
+  xy: 902, 263
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_08
+  rotate: false
+  xy: 254, 237
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_09
+  rotate: false
+  xy: 416, 237
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_10
+  rotate: false
+  xy: 578, 237
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_11
+  rotate: false
+  xy: 740, 237
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_12
+  rotate: false
+  xy: 258, 143
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_13
+  rotate: false
+  xy: 258, 49
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_14
+  rotate: false
+  xy: 420, 143
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_15
+  rotate: false
+  xy: 420, 49
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_16
+  rotate: false
+  xy: 582, 143
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_17
+  rotate: false
+  xy: 582, 49
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_18
+  rotate: true
+  xy: 744, 75
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1

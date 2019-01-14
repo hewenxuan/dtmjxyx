@@ -1,0 +1,55 @@
+
+shazi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ta
+  rotate: true
+  xy: 2, 91
+  size: 397, 543
+  orig: 397, 543
+  offset: 0, 0
+  index: -1
+touzi1
+  rotate: false
+  xy: 2, 2
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+touzi2
+  rotate: false
+  xy: 547, 401
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+touzi3
+  rotate: false
+  xy: 98, 2
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+touzi4
+  rotate: false
+  xy: 547, 312
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+touzi5
+  rotate: false
+  xy: 643, 401
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+touzi6
+  rotate: false
+  xy: 194, 2
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1

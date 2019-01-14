@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "4452fe66-bbb1-40bf-880c-3691b91b895d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fangka_lizi0": {
+      "ver": "1.0.3",
+      "uuid": "e2ded200-85fb-4a63-8e01-c8fa7574f829",
+      "rawTextureUuid": "4452fe66-bbb1-40bf-880c-3691b91b895d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 961,
+      "height": 78,
+      "rawWidth": 965,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

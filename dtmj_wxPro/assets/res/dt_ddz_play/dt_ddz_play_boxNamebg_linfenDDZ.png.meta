@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "5bfbebb6-b1ec-4bec-a619-b5981d2d0a00",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_ddz_play_boxNamebg_linfenDDZ": {
+      "ver": "1.0.3",
+      "uuid": "0dcda617-290e-4c2a-95da-d9c83625e99c",
+      "rawTextureUuid": "5bfbebb6-b1ec-4bec-a619-b5981d2d0a00",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 291,
+      "height": 73,
+      "rawWidth": 293,
+      "rawHeight": 76,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

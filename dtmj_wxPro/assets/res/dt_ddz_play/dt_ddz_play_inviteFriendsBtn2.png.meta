@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "ee06fef7-f69b-474c-843b-78f4a625a5d5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_ddz_play_inviteFriendsBtn2": {
+      "ver": "1.0.3",
+      "uuid": "340a5cd6-64cf-4ba4-9e86-4d6ad654cfeb",
+      "rawTextureUuid": "ee06fef7-f69b-474c-843b-78f4a625a5d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 234,
+      "height": 85,
+      "rawWidth": 236,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

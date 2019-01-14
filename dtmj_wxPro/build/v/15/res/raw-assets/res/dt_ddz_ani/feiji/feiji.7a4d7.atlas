@@ -1,0 +1,55 @@
+
+feiji.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feijishen
+  rotate: false
+  xy: 2, 64
+  size: 454, 175
+  orig: 454, 175
+  offset: 0, 0
+  index: -1
+feijitou
+  rotate: false
+  xy: 458, 173
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+luoxuan/luoxuan__00000
+  rotate: true
+  xy: 2, 2
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+luoxuan/luoxuan__00001
+  rotate: true
+  xy: 104, 2
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+luoxuan/luoxuan__00002
+  rotate: true
+  xy: 206, 2
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+luoxuan/luoxuan__00003
+  rotate: true
+  xy: 308, 2
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+luoxuan/luoxuan__00004
+  rotate: true
+  xy: 410, 2
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1

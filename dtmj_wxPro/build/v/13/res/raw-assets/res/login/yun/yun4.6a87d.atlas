@@ -1,0 +1,20 @@
+
+yun4.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun_t4
+  rotate: false
+  xy: 2, 2
+  size: 861, 173
+  orig: 861, 173
+  offset: 0, 0
+  index: -1
+yun_t44
+  rotate: false
+  xy: 2, 2
+  size: 861, 173
+  orig: 861, 173
+  offset: 0, 0
+  index: -1

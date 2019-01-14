@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c54b7443-5316-408a-91bf-25f9fa279a40",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_ddz_play_god_luck": {
+      "ver": "1.0.3",
+      "uuid": "d5ef23f1-c097-4443-bc0d-c3ac3c5d95e7",
+      "rawTextureUuid": "c54b7443-5316-408a-91bf-25f9fa279a40",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1,
+      "trimX": 1,
+      "trimY": 3,
+      "width": 63,
+      "height": 67,
+      "rawWidth": 66,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

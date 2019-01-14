@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "ca4033d8-cdc9-402a-94eb-9ba758129aa3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_clubroom_fangkajia2": {
+      "ver": "1.0.3",
+      "uuid": "7c417430-d1ee-476d-bcd9-1c31ca364f06",
+      "rawTextureUuid": "ca4033d8-cdc9-402a-94eb-9ba758129aa3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 42,
+      "height": 43,
+      "rawWidth": 44,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "1c37e511-cc04-4736-8f54-6f5cb5a39043",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_goldCon_sahreBtn1": {
+      "ver": "1.0.3",
+      "uuid": "39ea4c59-b4cf-4fa3-beb3-a47d7fae72b5",
+      "rawTextureUuid": "1c37e511-cc04-4736-8f54-6f5cb5a39043",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 178,
+      "height": 57,
+      "rawWidth": 180,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

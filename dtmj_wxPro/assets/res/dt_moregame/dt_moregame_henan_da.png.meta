@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "6aacf0dd-71f5-4017-9b06-f96af7809e07",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_moregame_henan_da": {
+      "ver": "1.0.3",
+      "uuid": "35745d3d-11fc-4fc4-85be-a86330fc84fc",
+      "rawTextureUuid": "6aacf0dd-71f5-4017-9b06-f96af7809e07",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 138,
+      "height": 138,
+      "rawWidth": 138,
+      "rawHeight": 138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

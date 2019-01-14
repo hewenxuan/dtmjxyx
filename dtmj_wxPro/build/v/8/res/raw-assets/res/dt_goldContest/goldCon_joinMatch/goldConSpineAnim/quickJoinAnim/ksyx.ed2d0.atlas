@@ -1,0 +1,76 @@
+
+ksyx.png
+size: 722,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ksyx_00000
+  rotate: true
+  xy: 2, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+ksyx_00001
+  rotate: true
+  xy: 74, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+ksyx_00002
+  rotate: true
+  xy: 146, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+ksyx_00003
+  rotate: true
+  xy: 218, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+ksyx_00004
+  rotate: true
+  xy: 290, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+ksyx_00005
+  rotate: true
+  xy: 362, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+ksyx_00006
+  rotate: true
+  xy: 434, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+ksyx_00007
+  rotate: true
+  xy: 506, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+ksyx_00008
+  rotate: true
+  xy: 578, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+ksyx_00009
+  rotate: true
+  xy: 650, 2
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1

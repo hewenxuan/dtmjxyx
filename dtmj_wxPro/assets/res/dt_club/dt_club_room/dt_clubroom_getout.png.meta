@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "06e64ce7-b2b3-47e2-b891-d1ba2f817d18",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_clubroom_getout": {
+      "ver": "1.0.3",
+      "uuid": "7a72d35c-083e-490b-b6f1-448c03c5682c",
+      "rawTextureUuid": "06e64ce7-b2b3-47e2-b891-d1ba2f817d18",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 55,
+      "height": 29,
+      "rawWidth": 56,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "9b9c3b0c-748b-4bf4-b602-aff86f46321e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dy_play_wenhao": {
+      "ver": "1.0.3",
+      "uuid": "13051090-75fc-4ee5-825d-332802e9d00f",
+      "rawTextureUuid": "9b9c3b0c-748b-4bf4-b602-aff86f46321e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 77,
+      "height": 77,
+      "rawWidth": 78,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

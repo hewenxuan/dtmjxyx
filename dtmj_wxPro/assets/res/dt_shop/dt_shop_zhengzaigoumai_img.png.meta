@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "451d8940-2850-4a72-89f1-f8e812186835",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_shop_zhengzaigoumai_img": {
+      "ver": "1.0.3",
+      "uuid": "6571bc42-ccbe-4697-8094-8f89fc8a2384",
+      "rawTextureUuid": "451d8940-2850-4a72-89f1-f8e812186835",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 578,
+      "height": 92,
+      "rawWidth": 580,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

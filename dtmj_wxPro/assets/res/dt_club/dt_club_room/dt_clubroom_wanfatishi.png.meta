@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c39e6dee-112f-445c-a1ad-7b07eaec6720",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_clubroom_wanfatishi": {
+      "ver": "1.0.3",
+      "uuid": "5acfb9e0-7626-4904-840b-af8693003958",
+      "rawTextureUuid": "c39e6dee-112f-445c-a1ad-7b07eaec6720",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 320,
+      "height": 208,
+      "rawWidth": 320,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

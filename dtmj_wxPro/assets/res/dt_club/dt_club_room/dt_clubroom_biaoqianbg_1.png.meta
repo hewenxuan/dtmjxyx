@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "f6a1ca8f-d0a5-425c-9465-e7e506643673",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_clubroom_biaoqianbg_1": {
+      "ver": "1.0.3",
+      "uuid": "f6230152-05b0-4843-a86f-c87cc120e5a8",
+      "rawTextureUuid": "f6a1ca8f-d0a5-425c-9465-e7e506643673",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 7,
+      "width": 188,
+      "height": 55,
+      "rawWidth": 188,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

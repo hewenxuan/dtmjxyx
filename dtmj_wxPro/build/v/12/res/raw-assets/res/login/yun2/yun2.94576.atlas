@@ -1,0 +1,27 @@
+
+yun2.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun_di1
+  rotate: false
+  xy: 2, 2
+  size: 675, 120
+  orig: 675, 120
+  offset: 0, 0
+  index: -1
+yun_di2
+  rotate: false
+  xy: 679, 55
+  size: 456, 67
+  orig: 456, 67
+  offset: 0, 0
+  index: -1
+yun_di3
+  rotate: false
+  xy: 1137, 31
+  size: 377, 91
+  orig: 377, 91
+  offset: 0, 0
+  index: -1

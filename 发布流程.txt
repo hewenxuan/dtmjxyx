@@ -1,0 +1,25 @@
+1.提交审核的 启动页面的版本要和 之前远程config版本一样。
+2.审核通过的，先发布config，版本上升一个版本。公告看需不需要更新，然后再微信后台发布。
+
+
+3.记得切正式服务器  
+4.log里换个微信的
+5.阿拉丁sdk接入  game.js  require('utils/ald-game.js');  拷贝utils到小游戏根目录下
+
+6.fundebug接入   game.js  fundebug.0.4.0.min（看官网有没有更新）
+
+var fundebug = require('./libs/fundebug.0.4.0.min.js')
+fundebug.init({
+  apikey: "21ec65a2ce258fda411a8c6f4e862dc103e539834dfd6f036e2112f60849e7e5"
+});
+
+7.公告 改成远程的
+8.网络超时时间修改
+
+
+
+
+加玩法
+1.玩法帮助
+2.大厅创建房间
+3.亲友圈 （格式化参数，亲友圈修改玩法 ，item，排行榜item）

@@ -1,0 +1,41 @@
+
+jiaruyouxi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chengguang
+  rotate: false
+  xy: 340, 99
+  size: 204, 401
+  orig: 204, 401
+  offset: 0, 0
+  index: -1
+denglong
+  rotate: false
+  xy: 2, 92
+  size: 336, 408
+  orig: 336, 408
+  offset: 0, 0
+  index: -1
+jiaruyouxi_110
+  rotate: true
+  xy: 2, 2
+  size: 88, 268
+  orig: 88, 268
+  offset: 0, 0
+  index: -1
+sui11
+  rotate: false
+  xy: 546, 372
+  size: 133, 128
+  orig: 133, 128
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 340, 93
+  size: 4, 187
+  orig: 4, 187
+  offset: 0, 0
+  index: -1

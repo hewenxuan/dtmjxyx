@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "533ff5cb-3191-4eb1-a131-b779444737ba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_moregame_fengexian": {
+      "ver": "1.0.3",
+      "uuid": "0d64d2d1-e2a7-4e10-8959-26fe186e9c3b",
+      "rawTextureUuid": "533ff5cb-3191-4eb1-a131-b779444737ba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 704,
+      "height": 18,
+      "rawWidth": 706,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

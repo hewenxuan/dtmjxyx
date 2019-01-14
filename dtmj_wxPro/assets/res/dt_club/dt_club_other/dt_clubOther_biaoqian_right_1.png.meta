@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "5b77f982-efec-42f9-a487-46927b6a265c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_clubOther_biaoqian_right_1": {
+      "ver": "1.0.3",
+      "uuid": "e0448fe9-200d-4b31-aa0c-c501d10f6d16",
+      "rawTextureUuid": "5b77f982-efec-42f9-a487-46927b6a265c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 181,
+      "height": 49,
+      "rawWidth": 182,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

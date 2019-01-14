@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "e8e297bd-2080-4e74-b838-0f326c73465b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_shuzi_image_xianshikuang": {
+      "ver": "1.0.3",
+      "uuid": "7505133b-6edf-4fde-a0b3-8dc291cc476b",
+      "rawTextureUuid": "e8e297bd-2080-4e74-b838-0f326c73465b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 255,
+      "height": 47,
+      "rawWidth": 258,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

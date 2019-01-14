@@ -1,0 +1,20 @@
+
+maozi.png
+size: 178,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: true
+  xy: 2, 2
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 90, 2
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1

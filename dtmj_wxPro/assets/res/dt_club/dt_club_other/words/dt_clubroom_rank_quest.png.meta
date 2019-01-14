@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "5b61db95-2f2e-4d00-af92-ad82ae5748e3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_clubroom_rank_quest": {
+      "ver": "1.0.3",
+      "uuid": "4c74a3ee-c10f-44db-9beb-56a2890c06c9",
+      "rawTextureUuid": "5b61db95-2f2e-4d00-af92-ad82ae5748e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 49,
+      "height": 27,
+      "rawWidth": 50,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "1a5a7d7b-a3f4-44c2-a110-0489ceecca18",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_clubroom_yikaishi": {
+      "ver": "1.0.3",
+      "uuid": "9f57b9b5-35b5-4bcf-a1c3-aec6f1a7330d",
+      "rawTextureUuid": "1a5a7d7b-a3f4-44c2-a110-0489ceecca18",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 90,
+      "height": 36,
+      "rawWidth": 90,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

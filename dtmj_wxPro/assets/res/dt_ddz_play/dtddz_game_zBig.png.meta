@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "dcc3054a-e4e5-4725-96a0-867beee75ad2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dtddz_game_zBig": {
+      "ver": "1.0.3",
+      "uuid": "0c2c8ec4-d90b-42f2-8a00-afe1448c5e3d",
+      "rawTextureUuid": "dcc3054a-e4e5-4725-96a0-867beee75ad2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0.5,
+      "trimX": 9,
+      "trimY": 1,
+      "width": 1264,
+      "height": 193,
+      "rawWidth": 1280,
+      "rawHeight": 196,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

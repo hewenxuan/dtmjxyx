@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "919bbb32-e5bb-42e2-9dcf-ad4e026afcce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "haozi": {
+      "ver": "1.0.3",
+      "uuid": "b6849a51-2ab1-453b-8a66-ab97acd4787c",
+      "rawTextureUuid": "919bbb32-e5bb-42e2-9dcf-ad4e026afcce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 72,
+      "height": 76,
+      "rawWidth": 72,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

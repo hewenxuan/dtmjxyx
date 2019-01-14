@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "8ea3bac6-727d-4b3a-bd66-061d97f2c9f2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_shop_monetTtitile_img": {
+      "ver": "1.0.3",
+      "uuid": "b967b139-71d2-45c1-8400-9624039228ee",
+      "rawTextureUuid": "8ea3bac6-727d-4b3a-bd66-061d97f2c9f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 5,
+      "trimY": 1,
+      "width": 178,
+      "height": 36,
+      "rawWidth": 186,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

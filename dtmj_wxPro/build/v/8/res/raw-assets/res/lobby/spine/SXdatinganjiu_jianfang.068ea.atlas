@@ -1,0 +1,41 @@
+
+SXdatinganjiu_jianfang.png
+size: 546,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/chuangjianfangjian
+  rotate: false
+  xy: 2, 136
+  size: 336, 408
+  orig: 336, 408
+  offset: 0, 0
+  index: -1
+image/lansedeng
+  rotate: false
+  xy: 340, 143
+  size: 204, 401
+  orig: 204, 401
+  offset: 0, 0
+  index: -1
+image/shuier
+  rotate: false
+  xy: 280, 6
+  size: 133, 128
+  orig: 133, 128
+  offset: 0, 0
+  index: -1
+image/xian
+  rotate: true
+  xy: 340, 137
+  size: 4, 187
+  orig: 4, 187
+  offset: 0, 0
+  index: -1
+image/zi
+  rotate: true
+  xy: 2, 47
+  size: 87, 276
+  orig: 87, 276
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "b0b470e2-d109-491e-9737-970304cc46d1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_ddz_play_liaotian_btn1": {
+      "ver": "1.0.3",
+      "uuid": "d977c03f-1edc-4dfd-b17f-5ffd73050b29",
+      "rawTextureUuid": "b0b470e2-d109-491e-9737-970304cc46d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 63,
+      "height": 67,
+      "rawWidth": 63,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

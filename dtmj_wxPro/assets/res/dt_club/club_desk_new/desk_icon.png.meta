@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "0fd2a411-82ff-40bc-9c20-9c0150823552",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "desk_icon": {
+      "ver": "1.0.3",
+      "uuid": "b3c43249-5f4a-4afe-8ef7-ef91c2977e34",
+      "rawTextureUuid": "0fd2a411-82ff-40bc-9c20-9c0150823552",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 120,
+      "height": 94,
+      "rawWidth": 120,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

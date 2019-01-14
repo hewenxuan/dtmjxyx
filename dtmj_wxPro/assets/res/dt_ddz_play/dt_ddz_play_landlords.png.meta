@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "578ea547-6987-46ea-a973-eaed0d33f689",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_ddz_play_landlords": {
+      "ver": "1.0.3",
+      "uuid": "50a277b3-6e4d-4ecb-99b6-d10a6adffc23",
+      "rawTextureUuid": "578ea547-6987-46ea-a973-eaed0d33f689",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 46,
+      "height": 62,
+      "rawWidth": 46,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

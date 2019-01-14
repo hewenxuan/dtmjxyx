@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "29defe29-55c9-465b-b40b-16f2dac90fea",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_moregame_hebei_xiao": {
+      "ver": "1.0.3",
+      "uuid": "8900d33a-0ec2-473a-b4da-d35c6dfec4f0",
+      "rawTextureUuid": "29defe29-55c9-465b-b40b-16f2dac90fea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 120,
+      "height": 151,
+      "rawWidth": 122,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

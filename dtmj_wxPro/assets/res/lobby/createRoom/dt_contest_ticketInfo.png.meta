@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "b938c1c1-8792-4b51-89ce-0a66addcfbbb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_contest_ticketInfo": {
+      "ver": "1.0.3",
+      "uuid": "440bbc33-4878-4737-9a3f-390628b2e798",
+      "rawTextureUuid": "b938c1c1-8792-4b51-89ce-0a66addcfbbb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 178,
+      "height": 96,
+      "rawWidth": 178,
+      "rawHeight": 96,
+      "borderTop": 15,
+      "borderBottom": 24,
+      "borderLeft": 12.599999999999994,
+      "borderRight": 126.4,
+      "subMetas": {}
+    }
+  }
+}

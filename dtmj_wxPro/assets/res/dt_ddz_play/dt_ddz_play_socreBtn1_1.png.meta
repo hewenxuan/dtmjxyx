@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "a856deb7-31e9-418e-add7-3e2b6db8b4b4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_ddz_play_socreBtn1_1": {
+      "ver": "1.0.3",
+      "uuid": "db823326-5a32-4fe4-a8da-4e505ea3a45d",
+      "rawTextureUuid": "a856deb7-31e9-418e-add7-3e2b6db8b4b4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 234,
+      "height": 85,
+      "rawWidth": 236,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

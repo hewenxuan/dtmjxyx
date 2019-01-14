@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "396592f3-322e-4a31-beb2-6e37ee053df6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_ddz_play_boxNamebg_happyDDZ": {
+      "ver": "1.0.3",
+      "uuid": "c15ea5ac-72b8-4a99-b7db-3ff9591c2700",
+      "rawTextureUuid": "396592f3-322e-4a31-beb2-6e37ee053df6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 294,
+      "height": 73,
+      "rawWidth": 294,
+      "rawHeight": 73,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

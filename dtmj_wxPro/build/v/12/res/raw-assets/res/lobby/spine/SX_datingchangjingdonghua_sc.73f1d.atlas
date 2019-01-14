@@ -1,0 +1,104 @@
+
+SX_datingchangjingdonghua_sc.png
+size: 307,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/cao1
+  rotate: true
+  xy: 252, 29
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+image/cao2
+  rotate: true
+  xy: 258, 53
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+image/cao3
+  rotate: true
+  xy: 258, 107
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+image/huabansucaiqietudonghuasucai1
+  rotate: true
+  xy: 144, 47
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+image/huabansucaiqietudonghuasucai2
+  rotate: true
+  xy: 198, 47
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+image/huabansucaiqietudonghuasucai3
+  rotate: true
+  xy: 130, 12
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+image/huabansucaiqietudonghuasucai4
+  rotate: true
+  xy: 184, 12
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+image/huabansucaiqietudonghuasucai5
+  rotate: false
+  xy: 2, 12
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+image/xiaohuaban
+  rotate: false
+  xy: 238, 6
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+image/yinghua2
+  rotate: false
+  xy: 67, 15
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+image/yinghuahua11
+  rotate: false
+  xy: 2, 179
+  size: 192, 126
+  orig: 192, 126
+  offset: 0, 0
+  index: -1
+image/yinghuahua5
+  rotate: false
+  xy: 144, 82
+  size: 112, 82
+  orig: 112, 82
+  offset: 0, 0
+  index: -1
+image/yinghuahua6
+  rotate: true
+  xy: 196, 166
+  size: 139, 93
+  orig: 139, 93
+  offset: 0, 0
+  index: -1
+image/yinghuahua7
+  rotate: false
+  xy: 2, 62
+  size: 140, 115
+  orig: 140, 115
+  offset: 0, 0
+  index: -1

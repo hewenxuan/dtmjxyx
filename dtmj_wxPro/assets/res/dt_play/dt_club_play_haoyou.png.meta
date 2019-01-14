@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "8c36711a-d9cc-47a0-b6b7-dc534f69c942",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_club_play_haoyou": {
+      "ver": "1.0.3",
+      "uuid": "be5f82c7-d4e1-4762-a8d8-bf7b2d091055",
+      "rawTextureUuid": "8c36711a-d9cc-47a0-b6b7-dc534f69c942",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 526,
+      "height": 668,
+      "rawWidth": 528,
+      "rawHeight": 670,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
